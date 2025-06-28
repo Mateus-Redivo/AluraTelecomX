@@ -12,7 +12,8 @@ O objetivo principal é identificar padrões comportamentais e características 
 ├── README.md                    # Este arquivo
 ├── TelecomX_BR.ipynb           # Notebook principal com análise completa
 ├── TelecomX_Data.json          # Dataset original em formato JSON
-└── TelecomX_dicionario.md      # Dicionário de dados
+├── TelecomX_dicionario.md      # Dicionário de dados
+└── LICENSE                      # ← Novo arquivo adicionado
 ```
 
 ## 🚀 Principais Resultados
